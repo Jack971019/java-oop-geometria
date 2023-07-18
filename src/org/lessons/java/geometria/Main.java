@@ -15,7 +15,7 @@ public class Main {
 
         //creo un oggetto square
 
-        Squares1 square = new Squares1(baseValue, highvalue);
+        Rectangle square = new Rectangle(baseValue, highvalue);
 
         //chiedo all'impiegato di calcolare area e perimetro
 

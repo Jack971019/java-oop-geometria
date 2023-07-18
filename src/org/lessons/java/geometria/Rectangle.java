@@ -1,6 +1,6 @@
 package org.lessons.java.geometria;
 
-public class Squares1 {
+public class Rectangle {
 
     //campi
 
@@ -9,7 +9,7 @@ public class Squares1 {
 
     //costruttori
 
-    Squares1(int basevalue, int highValue){
+    Rectangle(int basevalue, int highValue){
         this.basevalue= basevalue;
         this.highValue= highValue;
     }
